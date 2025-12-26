@@ -1,0 +1,19 @@
+
+
+Stimulus Sets by Animal
+===============================
+Animal 132F:
+First stimulus set
+Circle — High value (H1000)
+Star — Low value (L1000)
+
+Second stimulus set
+Spiral — High value (H1000)
+Plus — Low value (L1000)
+
+==============================
+Animal 65F:
+Plus sign — High value (H1000)
+Star — High value (H1001)
+Circle — Low value (L000)
+Spiral — Low value (L1001)
